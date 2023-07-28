@@ -1,0 +1,6 @@
+print ('maths')
+a = int(input ('enter first number: '))
+b = int(input ('enter second number: '))
+print('your answer is', a + b)
+print('answer for', a//b)
+print(float(a*b))
